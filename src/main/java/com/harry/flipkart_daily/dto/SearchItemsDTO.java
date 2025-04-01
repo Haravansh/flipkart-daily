@@ -63,4 +63,7 @@ public class SearchItemsDTO {
         this.priceTo = priceTo;
         this.orderBy = orderBy;
     }
+
+    public SearchItemsDTO() {
+    }
 }
